@@ -1,0 +1,9 @@
+
+    Chapter 1: Quantum Computing Fundamentals.
+    Quantum mechanics forms the theoretical foundation of quantum computation.
+    Superposition allows qubits to exist in multiple states simultaneously.
+    Entanglement links qubit states regardless of physical distance.
+    Page 2: Quantum Algorithms.
+    Shor's algorithm efficiently factors large composite integers in polynomial time.
+    Grover's algorithm provides a quadratic speedup for unstructured database searches.
+    
